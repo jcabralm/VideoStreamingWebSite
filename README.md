@@ -1,4 +1,4 @@
-# Video streaming application with react as frontend, using s3 and cloudfront
+# Video streaming application with react as frontend, using s3 and cloudfront! Branch from JiraSoftware, by jcabralm
 ![video_streaming_React_frontend](https://github.com/jcabralmdevops/VideoStreamingWebSite/assets/109381604/3ada18ee-35e4-4b18-9688-41a6759b1e76)
 
 ### Here are the steps for creating an S3 bucket, configuring versioning and blocking public access, configuring CloudFront with S3 origin access, and building the frontend of your React application:
